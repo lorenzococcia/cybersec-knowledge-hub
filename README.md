@@ -4,37 +4,78 @@ Welcome to the **Cybersecurity Knowledge Base**, a modular and scalable archive 
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
 ### `tools/`
-Documentation of cybersecurity tools, their usage, strengths, and purposes within various domains such as scanning, exploitation, and analysis.
+This section provides in-depth documentation of cybersecurity tools. Each file may cover:
+- Overview of the tool and its intended use
+- Command-line syntax or interface walkthroughs
+- Practical examples of real-world usage
+- Tips, advanced flags, and use cases
+- Integration into workflows or automation scripts
 
 ### `protocols/`
-Reference material for network protocols and how they function and interact in the context of cybersecurity and infrastructure.
+Detailed reference and explanation of key network protocols, focusing on their role in cybersecurity:
+- Protocol architecture and flow
+- Security considerations (e.g., weaknesses or typical misuse)
+- Packet structures or negotiation sequences
+- Real-world examples of exploitation or misconfiguration
 
 ### `concepts/`
-Core cybersecurity theories, principles, methodologies, and models explained in a clear and applicable format.
+A breakdown of essential cybersecurity models and paradigms:
+- Frameworks (e.g., Zero Trust, CIA Triad, MITRE ATT&CK)
+- Best practices and guiding principles
+- Conceptual comparisons (e.g., symmetric vs. asymmetric encryption)
+- Use case-driven learning for each concept
 
 ### `vulnerabilities/`
-Descriptions and classifications of known vulnerabilities, including root causes, behaviors, and mitigations.
+Exploration of common vulnerabilities, both theoretical and practical:
+- Technical breakdowns (causes, exploit paths, payloads)
+- Real-world CVE case studies
+- Detection techniques and tools
+- Mitigation strategies and patches
 
 ### `red-team/`
-Focus on offensive techniques, tactics, and procedures used during ethical hacking, penetration testing, and adversarial simulations.
+Focused on offensive security and adversarial thinking:
+- Attack phases and tactics (recon, initial access, privilege escalation, etc.)
+- Offensive tooling and their methodologies
+- Payload crafting and evasion techniques
+- Post-exploitation, persistence, and pivoting strategies
 
 ### `blue-team/`
-Defensive strategies and monitoring techniques for incident detection, prevention, and response.
+Covers defensive measures and detection strategies:
+- Log analysis, threat hunting, and SIEM configurations
+- Endpoint Detection & Response (EDR) tuning
+- Incident response planning and playbooks
+- Hardening practices and audit checklists
 
 ### `iam/`
-Coverage of identity and access management concepts including authentication, authorization, and federation protocols.
+Documentation of identity management and access control practices:
+- Protocols (OAuth2, SAML, LDAP)
+- Federation, SSO, MFA explanations
+- Identity lifecycle and role management
+- PAM and IAM product evaluations or configurations
 
 ### `cloud/`
-Security topics and principles specific to cloud environments, including best practices, architectures, and platform-specific insights.
+Topics specific to cloud infrastructure and services:
+- Cloud platform configurations (AWS, Azure, GCP)
+- Shared responsibility model breakdowns
+- Cloud-native tools and service security
+- Identity, networking, encryption, and logging in cloud
 
 ### `productivity/`
-Productivity-enhancing tricks, shortcuts, terminal tools, and scripting knowledge to improve efficiency and workflow.
+Time-saving tips and operational shortcuts:
+- Bash/Powershell snippets
+- Alias files, automation scripts
+- Cheatsheets for frequent tasks or tool flags
+- Keyboard shortcuts and optimized workflow habits
 
 ### `work-experience/`
-Summaries of practical, real-world issues encountered and resolved in professional cybersecurity work environments.
+Anecdotal or professional records of real security problems and resolutions:
+- Lessons learned from incidents or projects
+- Setup notes or troubleshooting logs
+- Cross-team interactions and integrations
+- Analysis of tools and techniques used on the job
 
 ---
 
