@@ -156,6 +156,10 @@ These flags are common in shell sessions, chat applications, or remote login pro
 
 ---
 
+## 🔗 Additional Resources
+
+- 👉 To see a practical lab that includes the analysis of a backdoor shell established via FTP traffic and the use of filters to detect interaction over TCP 6200, visit the following resource: [wireshark-analyze-vsftpd.md](https://github.com/lorenzococcia/pentest-labs/blob/tools/wireshark/wireshark-analyze-vsftpd.md)
+
 ## ✅ Summary
 
 Wireshark is indispensable for cybersecurity professionals. Whether for offensive operations (e.g., reverse shells, packet injection detection) or defensive analysis (e.g., identifying scanning, traffic anomalies), mastering filters and packet behavior gives you visibility and control.
