@@ -177,17 +177,3 @@ A modern passwordless authentication standard based on public-key cryptography, 
 * **WebAuthn** is the emerging standard for secure, passwordless authentication.
 
 Choosing the right protocol depends on the **use case**, **desired user experience**, and **infrastructure constraints**.
-
----
-
-## GitHub Documentation Tip
-
-You can save this file as:
-
-```
-/protocols/authentication-protocols.md
-```
-
-Or link it from your main `README.md` under a "Authentication and Authorization Protocols" section.
-
-If needed, diagrams and infographics can be added in a subfolder like `/diagrams`.
